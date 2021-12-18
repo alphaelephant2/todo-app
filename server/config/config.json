@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "postgres",
-    "password": "dothraki",
-    "database": "todo-app",
+    "password": "postgre",
+    "database": "todos-app",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
